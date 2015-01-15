@@ -1,6 +1,15 @@
+## Robótica Educativa: brazo robot
+## CEP Jaén              
+Diciembre 2014
+![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+## José Antonio Vacas  @javacasm
+
+* * * 
+
 # Construcción de brazo robot
 
-https://lh3.googleusercontent.com/-vszhCg3H4go/VHd7O-jB9sI/AAAAAAAAtWk/Omk6nqz6K_E/w1104-h828-no/IMG_20141127_135651.jpg
+![CC](https://lh3.googleusercontent.com/-vszhCg3H4go/VHd7O-jB9sI/AAAAAAAAtWk/Omk6nqz6K_E/w1104-h828-no/IMG_20141127_135651.jpg)
+
 
 * * *
 
@@ -25,8 +34,11 @@ https://lh3.googleusercontent.com/-vszhCg3H4go/VHd7O-jB9sI/AAAAAAAAtWk/Omk6nqz6K
 * Modelos
 
 * Para aprender
-https://class.coursera.org/conrob-002/wiki/GettingStarted2
-https://sites.google.com/site/mrjoneswac/yr10-information-software-technology/robotics
+
+[Coursera](https://class.coursera.org/conrob-002/wiki/GettingStarted2)
+
+[Curso](https://sites.google.com/site/mrjoneswac/yr10-information-software-technology/robotics)
+
 
 * * *
 ## Modelo
@@ -42,14 +54,11 @@ Podemos mover la posición de la pinza a cualquier coordenada
 * * *
 ## Montaje
 
-http://www.thingiverse.com/download:700212
+[Modelo](http://www.thingiverse.com/download:700212)
 
-https://plus.google.com/photos/+JoseAntonioVacasMartinez/albums/6104532387156704385/6086468918652827330?authkey
+[Imágenes montaje](https://plus.google.com/photos/+JoseAntonioVacasMartinez/albums/6104532387156704385/6086468918652827330?authkey)
 
-Próximamente
-
-https://plus.google.com/photos/+JoseAntonioVacasMartinez/albums/6104537620024206273?authkey=CLj5-ZeNrcTCCQ
-
+[Próximamente](https://plus.google.com/photos/+JoseAntonioVacasMartinez/albums/6104537620024206273?authkey=CLj5-ZeNrcTCCQ)
 * * * 
 
 ## Programación básica (remoto)
