@@ -95,4 +95,6 @@ http://www.thingiverse.com/download:700213
 * * * 
 ##Inteligencia Artificial)
 
-* Se le dota al robot de sistemas de reconocimiento del entorno capaces
+* Se le dota al robot de sistemas de reconocimiento del entorno 
+* Capacidad para evitar obstáculos
+* Detección de objetos
